@@ -1,0 +1,10 @@
+
+---
+
+## 2. `.gitignore`
+
+```gitignore
+.env
+__pycache__/
+venv/
+*.pyc
